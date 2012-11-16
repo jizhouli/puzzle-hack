@@ -28,4 +28,3 @@ by [小拿](justinli.ljt@gmail.com) 2012-11-16
 
 p.s. [光棍节程序员闯关秀](http://segmentfault.com/game/)
 
-         
