@@ -13,6 +13,7 @@ import base64
 
 class TheNinthLevel(object):
     '''
+    ciphertext crack class
     '''
     def __init__(self):
         pass
