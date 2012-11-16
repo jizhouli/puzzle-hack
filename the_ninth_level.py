@@ -2,6 +2,10 @@
 # -*- coding:utf-8 -*-
 #author: justinli.ljt@gmail.com
 '''
+光棍节程序员闯关秀第9关(总共10关)
+http://segmentfault.com/game/?k=ca81a4fa7ce5fac0f8c00e94c741dd61
+
+通关秘籍
 '''
 
 import os, sys
