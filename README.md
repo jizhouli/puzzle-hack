@@ -27,4 +27,5 @@ by [小拿](justinli.ljt@gmail.com) 2012-11-16
 
 
 p.s. [光棍节程序员闯关秀](http://segmentfault.com/game/)
+p.s.s. [第9关传送门](http://segmentfault.com/game/?k=ca81a4fa7ce5fac0f8c00e94c741dd61)
 
